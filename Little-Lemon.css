@@ -46,7 +46,7 @@ article{
     flex: 1;
 }
 .section1{
-    background-image: url(Little-Lemon/italian1.jpg);
+    background-image: url(Images/italian1.jpg);
     min-height: 40vh;
     background-size: cover;
     background-position: center;
@@ -54,11 +54,11 @@ article{
     animation: image 25s infinite linear;
 }
 @keyframes image{
-    0%{background-image: url(Little-Lemon/italian1.jpg);}
-    25%{background-image: url(Little-Lemon/greek2.jpg);}
-    50%{background-image: url(Little-Lemon/italian2.webp);}
-    75%{background-image: url(Little-Lemon/greek1.jpg);}
-    100%{background-image: url(Little-Lemon/Turkish2.jpg);}
+    0%{background-image: url(Images/italian1.jpg);}
+    25%{background-image: url(Images/greek2.jpg);}
+    50%{background-image: url(Images/italian2.webp);}
+    75%{background-image: url(Images/greek1.jpg);}
+    100%{background-image: url(Images/Turkish2.jpg);}
 }
 .section1 p{
     margin-left: 3%;
@@ -122,3 +122,4 @@ div img{
     text-decoration-line: overline;
     text-align: right;
 }
+
