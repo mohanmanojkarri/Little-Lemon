@@ -5,7 +5,6 @@ body{
     margin-bottom: 3rem;
     margin-left: 10%;
     margin-right: 10%;
-    /* max-width: 1200px; */
 }
 header img{
     display: block;
@@ -122,4 +121,5 @@ div img{
     text-decoration-line: overline;
     text-align: right;
 }
+
 
