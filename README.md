@@ -1,4 +1,4 @@
-# 🍋 Little Lemon Website
+# 🍋 Little Lemon Portfolio
 
 A simple, responsive restaurant website built using "HTML" and "CSS".  
 The site showcases the restaurant’s menu, booking section, and opening hours with a clean design and subtle animations.
