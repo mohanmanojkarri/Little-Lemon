@@ -18,3 +18,4 @@ The site showcases the restaurant’s menu, booking section, and opening hours w
 - "Google Fonts" (Markazi Text).
 
 ## 📸 Preview
+<img width="1588" height="1505" alt="image" src="https://github.com/user-attachments/assets/c1042eb0-4daf-4911-b5f6-2eaff2dc6c10" />
